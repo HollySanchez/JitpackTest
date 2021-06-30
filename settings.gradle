@@ -1,0 +1,5 @@
+include ':LibC'
+include ':LibB'
+include ':LibA'
+include ':app'
+rootProject.name = "JitpackTest"
