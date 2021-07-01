@@ -1,4 +1,5 @@
-include ':LibC'
+include ':LibC:KSSDK'
+include ':LibC:OAIDSDK'
 include ':LibB'
 include ':LibA'
 include ':app'

@@ -45,5 +45,6 @@ dependencies {
 
     implementation project(':LibA')
     implementation project(':LibB')
-    implementation project(':LibC')
+    implementation project(':LibC:KSSDK')
+    implementation project(':LibC:OAIDSDK')
 }

@@ -1,0 +1,2 @@
+configurations.maybeCreate('default')
+artifacts.add('default', file('zj_ad_kssdk_3.3.10.aar'))
